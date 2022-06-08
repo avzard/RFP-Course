@@ -1,0 +1,15 @@
+E:\RFP COURSE\BasicPrograms\BasicPrograms\obj\Debug\net6.0\BasicPrograms.csproj.AssemblyReference.cache
+E:\RFP COURSE\BasicPrograms\BasicPrograms\obj\Debug\net6.0\BasicPrograms.GeneratedMSBuildEditorConfig.editorconfig
+E:\RFP COURSE\BasicPrograms\BasicPrograms\obj\Debug\net6.0\BasicPrograms.AssemblyInfoInputs.cache
+E:\RFP COURSE\BasicPrograms\BasicPrograms\obj\Debug\net6.0\BasicPrograms.AssemblyInfo.cs
+E:\RFP COURSE\BasicPrograms\BasicPrograms\obj\Debug\net6.0\BasicPrograms.csproj.CoreCompileInputs.cache
+E:\RFP COURSE\BasicPrograms\BasicPrograms\bin\Debug\net6.0\BasicPrograms.exe
+E:\RFP COURSE\BasicPrograms\BasicPrograms\bin\Debug\net6.0\BasicPrograms.deps.json
+E:\RFP COURSE\BasicPrograms\BasicPrograms\bin\Debug\net6.0\BasicPrograms.runtimeconfig.json
+E:\RFP COURSE\BasicPrograms\BasicPrograms\bin\Debug\net6.0\BasicPrograms.dll
+E:\RFP COURSE\BasicPrograms\BasicPrograms\bin\Debug\net6.0\BasicPrograms.pdb
+E:\RFP COURSE\BasicPrograms\BasicPrograms\obj\Debug\net6.0\BasicPrograms.dll
+E:\RFP COURSE\BasicPrograms\BasicPrograms\obj\Debug\net6.0\refint\BasicPrograms.dll
+E:\RFP COURSE\BasicPrograms\BasicPrograms\obj\Debug\net6.0\BasicPrograms.pdb
+E:\RFP COURSE\BasicPrograms\BasicPrograms\obj\Debug\net6.0\BasicPrograms.genruntimeconfig.cache
+E:\RFP COURSE\BasicPrograms\BasicPrograms\obj\Debug\net6.0\ref\BasicPrograms.dll
