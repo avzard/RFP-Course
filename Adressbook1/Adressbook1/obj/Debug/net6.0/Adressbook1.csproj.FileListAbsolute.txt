@@ -1,0 +1,15 @@
+E:\RFP COURSE\Adressbook1\Adressbook1\obj\Debug\net6.0\Adressbook1.csproj.AssemblyReference.cache
+E:\RFP COURSE\Adressbook1\Adressbook1\obj\Debug\net6.0\Adressbook1.GeneratedMSBuildEditorConfig.editorconfig
+E:\RFP COURSE\Adressbook1\Adressbook1\obj\Debug\net6.0\Adressbook1.AssemblyInfoInputs.cache
+E:\RFP COURSE\Adressbook1\Adressbook1\obj\Debug\net6.0\Adressbook1.AssemblyInfo.cs
+E:\RFP COURSE\Adressbook1\Adressbook1\obj\Debug\net6.0\Adressbook1.csproj.CoreCompileInputs.cache
+E:\RFP COURSE\Adressbook1\Adressbook1\bin\Debug\net6.0\Adressbook1.exe
+E:\RFP COURSE\Adressbook1\Adressbook1\bin\Debug\net6.0\Adressbook1.deps.json
+E:\RFP COURSE\Adressbook1\Adressbook1\bin\Debug\net6.0\Adressbook1.runtimeconfig.json
+E:\RFP COURSE\Adressbook1\Adressbook1\bin\Debug\net6.0\Adressbook1.dll
+E:\RFP COURSE\Adressbook1\Adressbook1\bin\Debug\net6.0\Adressbook1.pdb
+E:\RFP COURSE\Adressbook1\Adressbook1\obj\Debug\net6.0\Adressbook1.dll
+E:\RFP COURSE\Adressbook1\Adressbook1\obj\Debug\net6.0\refint\Adressbook1.dll
+E:\RFP COURSE\Adressbook1\Adressbook1\obj\Debug\net6.0\Adressbook1.pdb
+E:\RFP COURSE\Adressbook1\Adressbook1\obj\Debug\net6.0\Adressbook1.genruntimeconfig.cache
+E:\RFP COURSE\Adressbook1\Adressbook1\obj\Debug\net6.0\ref\Adressbook1.dll
