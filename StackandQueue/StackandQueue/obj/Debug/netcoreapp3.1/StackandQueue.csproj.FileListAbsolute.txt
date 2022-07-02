@@ -1,0 +1,14 @@
+E:\RFP COURSE\StackandQueue\StackandQueue\bin\Debug\netcoreapp3.1\StackandQueue.exe
+E:\RFP COURSE\StackandQueue\StackandQueue\bin\Debug\netcoreapp3.1\StackandQueue.deps.json
+E:\RFP COURSE\StackandQueue\StackandQueue\bin\Debug\netcoreapp3.1\StackandQueue.runtimeconfig.json
+E:\RFP COURSE\StackandQueue\StackandQueue\bin\Debug\netcoreapp3.1\StackandQueue.runtimeconfig.dev.json
+E:\RFP COURSE\StackandQueue\StackandQueue\bin\Debug\netcoreapp3.1\StackandQueue.dll
+E:\RFP COURSE\StackandQueue\StackandQueue\bin\Debug\netcoreapp3.1\StackandQueue.pdb
+E:\RFP COURSE\StackandQueue\StackandQueue\obj\Debug\netcoreapp3.1\StackandQueue.csproj.AssemblyReference.cache
+E:\RFP COURSE\StackandQueue\StackandQueue\obj\Debug\netcoreapp3.1\StackandQueue.GeneratedMSBuildEditorConfig.editorconfig
+E:\RFP COURSE\StackandQueue\StackandQueue\obj\Debug\netcoreapp3.1\StackandQueue.AssemblyInfoInputs.cache
+E:\RFP COURSE\StackandQueue\StackandQueue\obj\Debug\netcoreapp3.1\StackandQueue.AssemblyInfo.cs
+E:\RFP COURSE\StackandQueue\StackandQueue\obj\Debug\netcoreapp3.1\StackandQueue.csproj.CoreCompileInputs.cache
+E:\RFP COURSE\StackandQueue\StackandQueue\obj\Debug\netcoreapp3.1\StackandQueue.dll
+E:\RFP COURSE\StackandQueue\StackandQueue\obj\Debug\netcoreapp3.1\StackandQueue.pdb
+E:\RFP COURSE\StackandQueue\StackandQueue\obj\Debug\netcoreapp3.1\StackandQueue.genruntimeconfig.cache

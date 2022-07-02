@@ -1,0 +1,14 @@
+E:\RFP COURSE\ExceptionLearning\ExceptionLearning\bin\Debug\netcoreapp3.1\ExceptionLearning.exe
+E:\RFP COURSE\ExceptionLearning\ExceptionLearning\bin\Debug\netcoreapp3.1\ExceptionLearning.deps.json
+E:\RFP COURSE\ExceptionLearning\ExceptionLearning\bin\Debug\netcoreapp3.1\ExceptionLearning.runtimeconfig.json
+E:\RFP COURSE\ExceptionLearning\ExceptionLearning\bin\Debug\netcoreapp3.1\ExceptionLearning.runtimeconfig.dev.json
+E:\RFP COURSE\ExceptionLearning\ExceptionLearning\bin\Debug\netcoreapp3.1\ExceptionLearning.dll
+E:\RFP COURSE\ExceptionLearning\ExceptionLearning\bin\Debug\netcoreapp3.1\ExceptionLearning.pdb
+E:\RFP COURSE\ExceptionLearning\ExceptionLearning\obj\Debug\netcoreapp3.1\ExceptionLearning.csproj.AssemblyReference.cache
+E:\RFP COURSE\ExceptionLearning\ExceptionLearning\obj\Debug\netcoreapp3.1\ExceptionLearning.GeneratedMSBuildEditorConfig.editorconfig
+E:\RFP COURSE\ExceptionLearning\ExceptionLearning\obj\Debug\netcoreapp3.1\ExceptionLearning.AssemblyInfoInputs.cache
+E:\RFP COURSE\ExceptionLearning\ExceptionLearning\obj\Debug\netcoreapp3.1\ExceptionLearning.AssemblyInfo.cs
+E:\RFP COURSE\ExceptionLearning\ExceptionLearning\obj\Debug\netcoreapp3.1\ExceptionLearning.csproj.CoreCompileInputs.cache
+E:\RFP COURSE\ExceptionLearning\ExceptionLearning\obj\Debug\netcoreapp3.1\ExceptionLearning.dll
+E:\RFP COURSE\ExceptionLearning\ExceptionLearning\obj\Debug\netcoreapp3.1\ExceptionLearning.pdb
+E:\RFP COURSE\ExceptionLearning\ExceptionLearning\obj\Debug\netcoreapp3.1\ExceptionLearning.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+E:\RFP COURSE\workpay problem\workpay problem\obj\Debug\net6.0\workpay problem.csproj.AssemblyReference.cache
+E:\RFP COURSE\workpay problem\workpay problem\obj\Debug\net6.0\workpay problem.GeneratedMSBuildEditorConfig.editorconfig
+E:\RFP COURSE\workpay problem\workpay problem\obj\Debug\net6.0\workpay problem.AssemblyInfoInputs.cache
+E:\RFP COURSE\workpay problem\workpay problem\obj\Debug\net6.0\workpay problem.AssemblyInfo.cs
+E:\RFP COURSE\workpay problem\workpay problem\obj\Debug\net6.0\workpay problem.csproj.CoreCompileInputs.cache
+E:\RFP COURSE\workpay problem\workpay problem\bin\Debug\net6.0\workpay problem.exe
+E:\RFP COURSE\workpay problem\workpay problem\bin\Debug\net6.0\workpay problem.deps.json
+E:\RFP COURSE\workpay problem\workpay problem\bin\Debug\net6.0\workpay problem.runtimeconfig.json
+E:\RFP COURSE\workpay problem\workpay problem\bin\Debug\net6.0\workpay problem.dll
+E:\RFP COURSE\workpay problem\workpay problem\bin\Debug\net6.0\workpay problem.pdb
+E:\RFP COURSE\workpay problem\workpay problem\obj\Debug\net6.0\workpay problem.dll
+E:\RFP COURSE\workpay problem\workpay problem\obj\Debug\net6.0\refint\workpay problem.dll
+E:\RFP COURSE\workpay problem\workpay problem\obj\Debug\net6.0\workpay problem.pdb
+E:\RFP COURSE\workpay problem\workpay problem\obj\Debug\net6.0\workpay problem.genruntimeconfig.cache
+E:\RFP COURSE\workpay problem\workpay problem\obj\Debug\net6.0\ref\workpay problem.dll

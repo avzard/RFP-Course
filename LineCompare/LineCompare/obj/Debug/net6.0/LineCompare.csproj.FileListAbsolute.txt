@@ -1,0 +1,15 @@
+E:\RFP COURSE\LineCompare\LineCompare\bin\Debug\net6.0\LineCompare.exe
+E:\RFP COURSE\LineCompare\LineCompare\bin\Debug\net6.0\LineCompare.deps.json
+E:\RFP COURSE\LineCompare\LineCompare\bin\Debug\net6.0\LineCompare.runtimeconfig.json
+E:\RFP COURSE\LineCompare\LineCompare\bin\Debug\net6.0\LineCompare.dll
+E:\RFP COURSE\LineCompare\LineCompare\bin\Debug\net6.0\LineCompare.pdb
+E:\RFP COURSE\LineCompare\LineCompare\obj\Debug\net6.0\LineCompare.csproj.AssemblyReference.cache
+E:\RFP COURSE\LineCompare\LineCompare\obj\Debug\net6.0\LineCompare.GeneratedMSBuildEditorConfig.editorconfig
+E:\RFP COURSE\LineCompare\LineCompare\obj\Debug\net6.0\LineCompare.AssemblyInfoInputs.cache
+E:\RFP COURSE\LineCompare\LineCompare\obj\Debug\net6.0\LineCompare.AssemblyInfo.cs
+E:\RFP COURSE\LineCompare\LineCompare\obj\Debug\net6.0\LineCompare.csproj.CoreCompileInputs.cache
+E:\RFP COURSE\LineCompare\LineCompare\obj\Debug\net6.0\LineCompare.dll
+E:\RFP COURSE\LineCompare\LineCompare\obj\Debug\net6.0\refint\LineCompare.dll
+E:\RFP COURSE\LineCompare\LineCompare\obj\Debug\net6.0\LineCompare.pdb
+E:\RFP COURSE\LineCompare\LineCompare\obj\Debug\net6.0\LineCompare.genruntimeconfig.cache
+E:\RFP COURSE\LineCompare\LineCompare\obj\Debug\net6.0\ref\LineCompare.dll

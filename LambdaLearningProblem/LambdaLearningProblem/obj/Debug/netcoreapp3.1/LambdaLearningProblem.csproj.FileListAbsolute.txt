@@ -1,0 +1,14 @@
+E:\RFP COURSE\LambdaLearningProblem\LambdaLearningProblem\bin\Debug\netcoreapp3.1\LambdaLearningProblem.exe
+E:\RFP COURSE\LambdaLearningProblem\LambdaLearningProblem\bin\Debug\netcoreapp3.1\LambdaLearningProblem.deps.json
+E:\RFP COURSE\LambdaLearningProblem\LambdaLearningProblem\bin\Debug\netcoreapp3.1\LambdaLearningProblem.runtimeconfig.json
+E:\RFP COURSE\LambdaLearningProblem\LambdaLearningProblem\bin\Debug\netcoreapp3.1\LambdaLearningProblem.runtimeconfig.dev.json
+E:\RFP COURSE\LambdaLearningProblem\LambdaLearningProblem\bin\Debug\netcoreapp3.1\LambdaLearningProblem.dll
+E:\RFP COURSE\LambdaLearningProblem\LambdaLearningProblem\bin\Debug\netcoreapp3.1\LambdaLearningProblem.pdb
+E:\RFP COURSE\LambdaLearningProblem\LambdaLearningProblem\obj\Debug\netcoreapp3.1\LambdaLearningProblem.csproj.AssemblyReference.cache
+E:\RFP COURSE\LambdaLearningProblem\LambdaLearningProblem\obj\Debug\netcoreapp3.1\LambdaLearningProblem.GeneratedMSBuildEditorConfig.editorconfig
+E:\RFP COURSE\LambdaLearningProblem\LambdaLearningProblem\obj\Debug\netcoreapp3.1\LambdaLearningProblem.AssemblyInfoInputs.cache
+E:\RFP COURSE\LambdaLearningProblem\LambdaLearningProblem\obj\Debug\netcoreapp3.1\LambdaLearningProblem.AssemblyInfo.cs
+E:\RFP COURSE\LambdaLearningProblem\LambdaLearningProblem\obj\Debug\netcoreapp3.1\LambdaLearningProblem.csproj.CoreCompileInputs.cache
+E:\RFP COURSE\LambdaLearningProblem\LambdaLearningProblem\obj\Debug\netcoreapp3.1\LambdaLearningProblem.dll
+E:\RFP COURSE\LambdaLearningProblem\LambdaLearningProblem\obj\Debug\netcoreapp3.1\LambdaLearningProblem.pdb
+E:\RFP COURSE\LambdaLearningProblem\LambdaLearningProblem\obj\Debug\netcoreapp3.1\LambdaLearningProblem.genruntimeconfig.cache

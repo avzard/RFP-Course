@@ -1,0 +1,15 @@
+E:\RFP COURSE\ProjectINClass\ProjectINClass\bin\Debug\net6.0\ProjectINClass.exe
+E:\RFP COURSE\ProjectINClass\ProjectINClass\bin\Debug\net6.0\ProjectINClass.deps.json
+E:\RFP COURSE\ProjectINClass\ProjectINClass\bin\Debug\net6.0\ProjectINClass.runtimeconfig.json
+E:\RFP COURSE\ProjectINClass\ProjectINClass\bin\Debug\net6.0\ProjectINClass.dll
+E:\RFP COURSE\ProjectINClass\ProjectINClass\bin\Debug\net6.0\ProjectINClass.pdb
+E:\RFP COURSE\ProjectINClass\ProjectINClass\obj\Debug\net6.0\ProjectINClass.csproj.AssemblyReference.cache
+E:\RFP COURSE\ProjectINClass\ProjectINClass\obj\Debug\net6.0\ProjectINClass.GeneratedMSBuildEditorConfig.editorconfig
+E:\RFP COURSE\ProjectINClass\ProjectINClass\obj\Debug\net6.0\ProjectINClass.AssemblyInfoInputs.cache
+E:\RFP COURSE\ProjectINClass\ProjectINClass\obj\Debug\net6.0\ProjectINClass.AssemblyInfo.cs
+E:\RFP COURSE\ProjectINClass\ProjectINClass\obj\Debug\net6.0\ProjectINClass.csproj.CoreCompileInputs.cache
+E:\RFP COURSE\ProjectINClass\ProjectINClass\obj\Debug\net6.0\ProjectINClass.dll
+E:\RFP COURSE\ProjectINClass\ProjectINClass\obj\Debug\net6.0\refint\ProjectINClass.dll
+E:\RFP COURSE\ProjectINClass\ProjectINClass\obj\Debug\net6.0\ProjectINClass.pdb
+E:\RFP COURSE\ProjectINClass\ProjectINClass\obj\Debug\net6.0\ProjectINClass.genruntimeconfig.cache
+E:\RFP COURSE\ProjectINClass\ProjectINClass\obj\Debug\net6.0\ref\ProjectINClass.dll

@@ -1,0 +1,14 @@
+E:\RFP COURSE\BinaryTree\BinaryTree\bin\Debug\netcoreapp3.1\BinaryTree.exe
+E:\RFP COURSE\BinaryTree\BinaryTree\bin\Debug\netcoreapp3.1\BinaryTree.deps.json
+E:\RFP COURSE\BinaryTree\BinaryTree\bin\Debug\netcoreapp3.1\BinaryTree.runtimeconfig.json
+E:\RFP COURSE\BinaryTree\BinaryTree\bin\Debug\netcoreapp3.1\BinaryTree.runtimeconfig.dev.json
+E:\RFP COURSE\BinaryTree\BinaryTree\bin\Debug\netcoreapp3.1\BinaryTree.dll
+E:\RFP COURSE\BinaryTree\BinaryTree\bin\Debug\netcoreapp3.1\BinaryTree.pdb
+E:\RFP COURSE\BinaryTree\BinaryTree\obj\Debug\netcoreapp3.1\BinaryTree.csproj.AssemblyReference.cache
+E:\RFP COURSE\BinaryTree\BinaryTree\obj\Debug\netcoreapp3.1\BinaryTree.GeneratedMSBuildEditorConfig.editorconfig
+E:\RFP COURSE\BinaryTree\BinaryTree\obj\Debug\netcoreapp3.1\BinaryTree.AssemblyInfoInputs.cache
+E:\RFP COURSE\BinaryTree\BinaryTree\obj\Debug\netcoreapp3.1\BinaryTree.AssemblyInfo.cs
+E:\RFP COURSE\BinaryTree\BinaryTree\obj\Debug\netcoreapp3.1\BinaryTree.csproj.CoreCompileInputs.cache
+E:\RFP COURSE\BinaryTree\BinaryTree\obj\Debug\netcoreapp3.1\BinaryTree.dll
+E:\RFP COURSE\BinaryTree\BinaryTree\obj\Debug\netcoreapp3.1\BinaryTree.pdb
+E:\RFP COURSE\BinaryTree\BinaryTree\obj\Debug\netcoreapp3.1\BinaryTree.genruntimeconfig.cache

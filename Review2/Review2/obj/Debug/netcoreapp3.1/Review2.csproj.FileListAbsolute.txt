@@ -1,0 +1,14 @@
+E:\RFP COURSE\Review2\Review2\bin\Debug\netcoreapp3.1\Review2.exe
+E:\RFP COURSE\Review2\Review2\bin\Debug\netcoreapp3.1\Review2.deps.json
+E:\RFP COURSE\Review2\Review2\bin\Debug\netcoreapp3.1\Review2.runtimeconfig.json
+E:\RFP COURSE\Review2\Review2\bin\Debug\netcoreapp3.1\Review2.runtimeconfig.dev.json
+E:\RFP COURSE\Review2\Review2\bin\Debug\netcoreapp3.1\Review2.dll
+E:\RFP COURSE\Review2\Review2\bin\Debug\netcoreapp3.1\Review2.pdb
+E:\RFP COURSE\Review2\Review2\obj\Debug\netcoreapp3.1\Review2.csproj.AssemblyReference.cache
+E:\RFP COURSE\Review2\Review2\obj\Debug\netcoreapp3.1\Review2.GeneratedMSBuildEditorConfig.editorconfig
+E:\RFP COURSE\Review2\Review2\obj\Debug\netcoreapp3.1\Review2.AssemblyInfoInputs.cache
+E:\RFP COURSE\Review2\Review2\obj\Debug\netcoreapp3.1\Review2.AssemblyInfo.cs
+E:\RFP COURSE\Review2\Review2\obj\Debug\netcoreapp3.1\Review2.csproj.CoreCompileInputs.cache
+E:\RFP COURSE\Review2\Review2\obj\Debug\netcoreapp3.1\Review2.dll
+E:\RFP COURSE\Review2\Review2\obj\Debug\netcoreapp3.1\Review2.pdb
+E:\RFP COURSE\Review2\Review2\obj\Debug\netcoreapp3.1\Review2.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+E:\RFP COURSE\GenricsLearningProblem\GenricsLearningProblem\bin\Debug\net6.0\GenricsLearningProblem.exe
+E:\RFP COURSE\GenricsLearningProblem\GenricsLearningProblem\bin\Debug\net6.0\GenricsLearningProblem.deps.json
+E:\RFP COURSE\GenricsLearningProblem\GenricsLearningProblem\bin\Debug\net6.0\GenricsLearningProblem.runtimeconfig.json
+E:\RFP COURSE\GenricsLearningProblem\GenricsLearningProblem\bin\Debug\net6.0\GenricsLearningProblem.dll
+E:\RFP COURSE\GenricsLearningProblem\GenricsLearningProblem\bin\Debug\net6.0\GenricsLearningProblem.pdb
+E:\RFP COURSE\GenricsLearningProblem\GenricsLearningProblem\obj\Debug\net6.0\GenricsLearningProblem.csproj.AssemblyReference.cache
+E:\RFP COURSE\GenricsLearningProblem\GenricsLearningProblem\obj\Debug\net6.0\GenricsLearningProblem.GeneratedMSBuildEditorConfig.editorconfig
+E:\RFP COURSE\GenricsLearningProblem\GenricsLearningProblem\obj\Debug\net6.0\GenricsLearningProblem.AssemblyInfoInputs.cache
+E:\RFP COURSE\GenricsLearningProblem\GenricsLearningProblem\obj\Debug\net6.0\GenricsLearningProblem.AssemblyInfo.cs
+E:\RFP COURSE\GenricsLearningProblem\GenricsLearningProblem\obj\Debug\net6.0\GenricsLearningProblem.csproj.CoreCompileInputs.cache
+E:\RFP COURSE\GenricsLearningProblem\GenricsLearningProblem\obj\Debug\net6.0\GenricsLearningProblem.dll
+E:\RFP COURSE\GenricsLearningProblem\GenricsLearningProblem\obj\Debug\net6.0\refint\GenricsLearningProblem.dll
+E:\RFP COURSE\GenricsLearningProblem\GenricsLearningProblem\obj\Debug\net6.0\GenricsLearningProblem.pdb
+E:\RFP COURSE\GenricsLearningProblem\GenricsLearningProblem\obj\Debug\net6.0\GenricsLearningProblem.genruntimeconfig.cache
+E:\RFP COURSE\GenricsLearningProblem\GenricsLearningProblem\obj\Debug\net6.0\ref\GenricsLearningProblem.dll

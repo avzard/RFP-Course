@@ -1,0 +1,14 @@
+E:\RFP COURSE\ModeAnalyzer\ModeAnalyzer\bin\Debug\netcoreapp3.1\ModeAnalyzer.exe
+E:\RFP COURSE\ModeAnalyzer\ModeAnalyzer\bin\Debug\netcoreapp3.1\ModeAnalyzer.deps.json
+E:\RFP COURSE\ModeAnalyzer\ModeAnalyzer\bin\Debug\netcoreapp3.1\ModeAnalyzer.runtimeconfig.json
+E:\RFP COURSE\ModeAnalyzer\ModeAnalyzer\bin\Debug\netcoreapp3.1\ModeAnalyzer.runtimeconfig.dev.json
+E:\RFP COURSE\ModeAnalyzer\ModeAnalyzer\bin\Debug\netcoreapp3.1\ModeAnalyzer.dll
+E:\RFP COURSE\ModeAnalyzer\ModeAnalyzer\bin\Debug\netcoreapp3.1\ModeAnalyzer.pdb
+E:\RFP COURSE\ModeAnalyzer\ModeAnalyzer\obj\Debug\netcoreapp3.1\ModeAnalyzer.csproj.AssemblyReference.cache
+E:\RFP COURSE\ModeAnalyzer\ModeAnalyzer\obj\Debug\netcoreapp3.1\ModeAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+E:\RFP COURSE\ModeAnalyzer\ModeAnalyzer\obj\Debug\netcoreapp3.1\ModeAnalyzer.AssemblyInfoInputs.cache
+E:\RFP COURSE\ModeAnalyzer\ModeAnalyzer\obj\Debug\netcoreapp3.1\ModeAnalyzer.AssemblyInfo.cs
+E:\RFP COURSE\ModeAnalyzer\ModeAnalyzer\obj\Debug\netcoreapp3.1\ModeAnalyzer.csproj.CoreCompileInputs.cache
+E:\RFP COURSE\ModeAnalyzer\ModeAnalyzer\obj\Debug\netcoreapp3.1\ModeAnalyzer.dll
+E:\RFP COURSE\ModeAnalyzer\ModeAnalyzer\obj\Debug\netcoreapp3.1\ModeAnalyzer.pdb
+E:\RFP COURSE\ModeAnalyzer\ModeAnalyzer\obj\Debug\netcoreapp3.1\ModeAnalyzer.genruntimeconfig.cache

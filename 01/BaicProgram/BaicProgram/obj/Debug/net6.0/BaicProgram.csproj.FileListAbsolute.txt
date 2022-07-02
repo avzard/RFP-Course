@@ -1,0 +1,15 @@
+E:\RFP COURSE\BaicProgram\BaicProgram\bin\Debug\net6.0\BaicProgram.exe
+E:\RFP COURSE\BaicProgram\BaicProgram\bin\Debug\net6.0\BaicProgram.deps.json
+E:\RFP COURSE\BaicProgram\BaicProgram\bin\Debug\net6.0\BaicProgram.runtimeconfig.json
+E:\RFP COURSE\BaicProgram\BaicProgram\bin\Debug\net6.0\BaicProgram.dll
+E:\RFP COURSE\BaicProgram\BaicProgram\bin\Debug\net6.0\BaicProgram.pdb
+E:\RFP COURSE\BaicProgram\BaicProgram\obj\Debug\net6.0\BaicProgram.csproj.AssemblyReference.cache
+E:\RFP COURSE\BaicProgram\BaicProgram\obj\Debug\net6.0\BaicProgram.GeneratedMSBuildEditorConfig.editorconfig
+E:\RFP COURSE\BaicProgram\BaicProgram\obj\Debug\net6.0\BaicProgram.AssemblyInfoInputs.cache
+E:\RFP COURSE\BaicProgram\BaicProgram\obj\Debug\net6.0\BaicProgram.AssemblyInfo.cs
+E:\RFP COURSE\BaicProgram\BaicProgram\obj\Debug\net6.0\BaicProgram.csproj.CoreCompileInputs.cache
+E:\RFP COURSE\BaicProgram\BaicProgram\obj\Debug\net6.0\BaicProgram.dll
+E:\RFP COURSE\BaicProgram\BaicProgram\obj\Debug\net6.0\refint\BaicProgram.dll
+E:\RFP COURSE\BaicProgram\BaicProgram\obj\Debug\net6.0\BaicProgram.pdb
+E:\RFP COURSE\BaicProgram\BaicProgram\obj\Debug\net6.0\BaicProgram.genruntimeconfig.cache
+E:\RFP COURSE\BaicProgram\BaicProgram\obj\Debug\net6.0\ref\BaicProgram.dll

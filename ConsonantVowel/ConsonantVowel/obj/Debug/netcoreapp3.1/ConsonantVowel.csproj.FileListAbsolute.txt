@@ -1,0 +1,14 @@
+E:\RFP COURSE\ConsonantVowel\ConsonantVowel\bin\Debug\netcoreapp3.1\ConsonantVowel.exe
+E:\RFP COURSE\ConsonantVowel\ConsonantVowel\bin\Debug\netcoreapp3.1\ConsonantVowel.deps.json
+E:\RFP COURSE\ConsonantVowel\ConsonantVowel\bin\Debug\netcoreapp3.1\ConsonantVowel.runtimeconfig.json
+E:\RFP COURSE\ConsonantVowel\ConsonantVowel\bin\Debug\netcoreapp3.1\ConsonantVowel.runtimeconfig.dev.json
+E:\RFP COURSE\ConsonantVowel\ConsonantVowel\bin\Debug\netcoreapp3.1\ConsonantVowel.dll
+E:\RFP COURSE\ConsonantVowel\ConsonantVowel\bin\Debug\netcoreapp3.1\ConsonantVowel.pdb
+E:\RFP COURSE\ConsonantVowel\ConsonantVowel\obj\Debug\netcoreapp3.1\ConsonantVowel.csproj.AssemblyReference.cache
+E:\RFP COURSE\ConsonantVowel\ConsonantVowel\obj\Debug\netcoreapp3.1\ConsonantVowel.GeneratedMSBuildEditorConfig.editorconfig
+E:\RFP COURSE\ConsonantVowel\ConsonantVowel\obj\Debug\netcoreapp3.1\ConsonantVowel.AssemblyInfoInputs.cache
+E:\RFP COURSE\ConsonantVowel\ConsonantVowel\obj\Debug\netcoreapp3.1\ConsonantVowel.AssemblyInfo.cs
+E:\RFP COURSE\ConsonantVowel\ConsonantVowel\obj\Debug\netcoreapp3.1\ConsonantVowel.csproj.CoreCompileInputs.cache
+E:\RFP COURSE\ConsonantVowel\ConsonantVowel\obj\Debug\netcoreapp3.1\ConsonantVowel.dll
+E:\RFP COURSE\ConsonantVowel\ConsonantVowel\obj\Debug\netcoreapp3.1\ConsonantVowel.pdb
+E:\RFP COURSE\ConsonantVowel\ConsonantVowel\obj\Debug\netcoreapp3.1\ConsonantVowel.genruntimeconfig.cache
